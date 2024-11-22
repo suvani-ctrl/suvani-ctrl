@@ -2,12 +2,12 @@
 
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif" alt="Tech Enthusiast Banner" width="100%" />
+  <img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" alt="Tech Enthusiast Banner" width="100%" />
 </p>
 
 <!-- Cute Frog Programming GIF -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/c24b86c234ef154ad8b0a621713ffda5e56e2b1190171a2b6ef2139621e71c14/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313639303033343935363534362f31303163313639342d376538372d343538652d616664352d6162363563343863343638652e676966" alt="Frog Programming GIF" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Frog Programming GIF" width="400" />
 </p>
 
 <!-- GitHub Profile Trophy -->
