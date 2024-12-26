@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/suvani-basnet-369262295" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/suvani" target="blank">
+  <a href="https://www.instagram.com/suvanii__?igsh=MW82bjI2NXBvemR6Yg==" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://medium.com/@suvani_basnet" target="blank">
