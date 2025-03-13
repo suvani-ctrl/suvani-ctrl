@@ -1,12 +1,9 @@
-<h3 align="center">🌱🌟 A Tech Enthusiast 🌟🌱</h3>
+<h3 align="center" style="color: #ff66b2;">🌱🌟 A Tech Enthusiast 🌟🌱</h3>
 
 <!-- Banner GIF -->
 <p align="center">
   <img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" alt="Tech Enthusiast Banner" width="100%" />
 </p>
-
-<!-- Cute Frog Programming GIF -->
-
 
 <!-- GitHub Profile Trophy -->
 <p align="center">
@@ -15,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="center">🌿 Connect with Me:</h3>
+<h3 align="center" style="color: #ff66b2;">🌿 Connect with Me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/suvani-basnet-369262295" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -26,12 +23,12 @@
   <a href="https://medium.com/@suvani_basnet" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
-   <a href="  https://leetcode.com/u/meow_suvani/" target="blank">
+  <a href="https://leetcode.com/u/meow_suvani/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Leetcode" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="center">🌻 Languages and Tools:</h3>
+<h3 align="center" style="color: #ff66b2;">🌻 Languages and Tools:</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
@@ -56,14 +53,14 @@
   </a>
 </p>
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center" style="color: #ff66b2;">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvani-ctrl&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<h3 align="center">💻 Streak Stats:</h3>
+<h3 align="center" style="color: #ff66b2;">💻 Streak Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvani-ctrl" alt="Streak Stats" />
 </p>
 
-<h3 align="center">🌻 Check out my GitHub Profile: <a href="https://github.com/suvani-ctrl" target="_blank">suvani-ctrl</a></h3>
+<h3 align="center" style="color: #ff66b2;">🌻 Check out my GitHub Profile: <a href="https://github.com/suvani-ctrl" target="_blank" style="color: #ff66b2;">suvani-ctrl</a></h3>
