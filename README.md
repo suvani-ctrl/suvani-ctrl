@@ -1,10 +1,8 @@
 <div align="center">
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=200&section=header&text=🎀%20Suvani%20🎀&fontSize=70&fontColor=FFB6C1&animation=fadeIn&fontAlignY=38" width="100%"/>
 
----
-
-<div align="center">
+<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/>
 
 </div>
 
@@ -14,22 +12,31 @@
 
 ## 💾 Tech Stack
 
-### Frontend
+<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> **Frontend** <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/>
+
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,figma&theme=light" />
 </p>
 
-### Backend
+<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> **Backend** <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/>
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mongodb,firebase&theme=light" />
 </p>
 
-### Tools
+<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> **Tools** <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/>
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=light" />
 </p>
 
+<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/>
+
 </div>
+
+---
+
+<div align="center">
 
 <table>
   <tr>
@@ -42,15 +49,23 @@
   </tr>
 </table>
 
+<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suvani-ctrl&theme=material-palenight&hide_border=true&bg_color=1a1b27&color=ff79c6&line=ff79c6&point=ffb86c&area=true&custom_title=Contribution%20Activity" width="95%"/>
+
+<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=suvani-ctrl&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Commits,Followers,Issues,PRs,Repositories" width="95%"/>
 
 </div>
 
+---
+
 <div align="center">
 
 ## 🔗 Links
+
+<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="50"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="50"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="50"/>
 
 <p>
   <a href="https://linkedin.com/in/suvani-basnet-369262295">
@@ -68,6 +83,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=suvani-ctrl&label=Views&color=ff69b4&style=flat-square" alt="Views"/>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"/>
+<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/>
 
 </div>
