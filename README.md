@@ -6,17 +6,6 @@
 
 <div align="center">
 
-### 📟 System Info
-
-<img align="right" src="https://media.giphy.com/media/ju0FrcZMBscYtfXwli/giphy.gif" width="200">
-
-```yaml
-User: Suvani Basnet
-Location: Lalitpur, Nepal 🇳🇵
-
-```
-
-
 </div>
 
 ---
@@ -24,8 +13,6 @@ Location: Lalitpur, Nepal 🇳🇵
 <div align="center">
 
 ## 💾 Tech Stack
-
-<img src="https://media.giphy.com/media/W00L80khVNrzDWTl2o/giphy.gif" width="80"/>
 
 ### Frontend
 <p>
