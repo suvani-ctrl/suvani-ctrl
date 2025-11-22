@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Retro pixel header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=180&section=header&text=Suvani&fontSize=60&fontColor=FFB6C1&animation=fadeIn&fontAlignY=35" width="100%"/>
+
 
 ```
 ███████╗██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗██╗
@@ -99,12 +98,6 @@ const dailyRoutine = {
   consistency: "Non-negotiable"
 };
 ```
-
-**Grinding:**
-- LeetCode (targeting 200+ problems)
-- System design patterns
-- Interview prep (behavioral + technical)
-- Building production apps
 
 </div>
 
