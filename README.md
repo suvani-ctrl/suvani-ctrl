@@ -31,14 +31,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 Stats
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
-
 <table>
   <tr>
     <td>
