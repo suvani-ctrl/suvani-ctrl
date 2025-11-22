@@ -90,14 +90,6 @@ Location: Lalitpur, Nepal 🇳🇵
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
 
-```javascript
-const dailyRoutine = {
-  morning: "LeetCode problem",
-  afternoon: "System design study",
-  evening: "Project work",
-  consistency: "Non-negotiable"
-};
-```
 
 </div>
 
