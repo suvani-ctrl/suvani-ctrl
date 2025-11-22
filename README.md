@@ -60,8 +60,6 @@
 
 ## 🔗 Links
 
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100"/>
-
 <p>
   <a href="https://linkedin.com/in/suvani-basnet-369262295">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1493" alt="LinkedIn"/>
