@@ -1,5 +1,18 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<!-- Retro pixel header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=180&section=header&text=Suvani&fontSize=60&fontColor=FFB6C1&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+```
+███████╗██╗   ██╗██╗   ██╗ █████╗ ███╗   ██╗██╗
+██╔════╝██║   ██║██║   ██║██╔══██╗████╗  ██║██║
+███████╗██║   ██║██║   ██║███████║██╔██╗ ██║██║
+╚════██║██║   ██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██║
+███████║╚██████╔╝ ╚████╔╝ ██║  ██║██║ ╚████║██║
+╚══════╝ ╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
+```
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
 
 </div>
 
@@ -7,17 +20,16 @@
 
 <div align="center">
 
-### 🌸 About Me
+### 📟 System Info
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
-
-<div align="left" style="padding: 20px;">
+<img align="right" src="https://media.giphy.com/media/ju0FrcZMBscYtfXwli/giphy.gif" width="200">
 
 ```yaml
-name: "Suvani Basnet"
-location: "Lalit-purr, Nepal 🇳🇵"
+User: Suvani Basnet
+Location: Lalitpur, Nepal 🇳🇵
+
 ```
-</div>
+
 
 </div>
 
@@ -25,29 +37,24 @@ location: "Lalit-purr, Nepal 🇳🇵"
 
 <div align="center">
 
-## 💅 Tech Stack
+## 💾 Tech Stack
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+<img src="https://media.giphy.com/media/W00L80khVNrzDWTl2o/giphy.gif" width="80"/>
 
-### 🎨 Frontend
-
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,figma&theme=light" />
 </p>
 
-### ⚙️ Backend
-
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mongodb,firebase&theme=light" />
 </p>
 
-### ☁️ Tools & Deployment
-
+### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,firebase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=light" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 </div>
 
@@ -55,9 +62,9 @@ location: "Lalit-purr, Nepal 🇳🇵"
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
 
 <table>
   <tr>
@@ -70,18 +77,9 @@ location: "Lalit-purr, Nepal 🇳🇵"
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvani-ctrl&theme=material-palenight&hide_border=true&bg_color=1a1b27&color=ff79c6&line=ff79c6&point=ffb86c&area=true&custom_title=✨%20Contribution%20Garden%20✨" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvani-ctrl&theme=material-palenight&hide_border=true&bg_color=1a1b27&color=ff79c6&line=ff79c6&point=ffb86c&area=true&custom_title=Contribution%20Activity" width="95%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=suvani-ctrl&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Commits,Followers,Issues,PRs,Repositories,MultiLanguage" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📚 Current Focus
-
+<img src="https://github-profile-trophy.vercel.app/?username=suvani-ctrl&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Commits,Followers,Issues,PRs,Repositories" width="95%"/>
 
 </div>
 
@@ -89,7 +87,34 @@ location: "Lalit-purr, Nepal 🇳🇵"
 
 <div align="center">
 
-## 🌟 Connect
+## 🎯 Current Focus
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
+
+```javascript
+const dailyRoutine = {
+  morning: "LeetCode problem",
+  afternoon: "System design study",
+  evening: "Project work",
+  consistency: "Non-negotiable"
+};
+```
+
+**Grinding:**
+- LeetCode (targeting 200+ problems)
+- System design patterns
+- Interview prep (behavioral + technical)
+- Building production apps
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔗 Links
+
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100"/>
 
 <p>
   <a href="https://linkedin.com/in/suvani-basnet-369262295">
@@ -103,8 +128,10 @@ location: "Lalit-purr, Nepal 🇳🇵"
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,23&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=120&section=footer" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=suvani-ctrl&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=suvani-ctrl&label=Views&color=ff69b4&style=flat-square" alt="Views"/>
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100"/>
 
 </div>
