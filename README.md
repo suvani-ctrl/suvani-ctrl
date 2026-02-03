@@ -74,9 +74,7 @@
   <a href="https://medium.com/@suvani_basnet">
     <img src="https://img.shields.io/badge/Medium-FFB6C1?style=for-the-badge&logo=medium&logoColor=white&labelColor=FF69B4" alt="Medium"/>
   </a>
-  <a href="https://leetcode.com/u/meow_suvani/">
-    <img src="https://img.shields.io/badge/LeetCode-FFC0CB?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FF69B4" alt="LeetCode"/>
-  </a>
+
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=120&section=footer" width="100%"/>
