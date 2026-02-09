@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=200&section=header&text=🎀%20Suvani%20🎀&fontSize=70&fontColor=FFB6C1&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=180&section=header&text=Suvani&fontSize=64&fontColor=FFB6C1&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 </div>
 
@@ -12,25 +10,14 @@
 
 ## 💾 Tech Stack
 
-<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> **Frontend** <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,figma&theme=light" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,figma&theme=light" />
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,postgresql,mongodb,firebase&theme=light" />
 
-<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> **Backend** <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgresql,mongodb,firebase&theme=light" />
-</p>
-
-<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> **Tools** <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=light" />
-</p>
-
-<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=light" />
 
 </div>
 
@@ -38,24 +25,11 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=suvani-ctrl&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&count_private=true" alt="GitHub Stats" width="420"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=suvani-ctrl&theme=material-palenight&hide_border=true&background=1a1b27&stroke=ff79c6&ring=ff79c6&fire=ffb86c&currStreakLabel=ff79c6&sideLabels=f8f8f2&currStreakNum=f8f8f2&sideNums=f8f8f2" alt="GitHub Streak" width="420"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=suvani-ctrl&show_icons=true&theme=material-palenight&hide_border=true&count_private=true" width="420"/>
 
-<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=suvani-ctrl&theme=material-palenight&hide_border=true" width="420"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvani-ctrl&theme=material-palenight&hide_border=true&bg_color=1a1b27&color=ff79c6&line=ff79c6&point=ffb86c&area=true&custom_title=Contribution%20Activity" width="95%"/>
-
-<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="40"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=suvani-ctrl&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Commits,Followers,Issues,PRs,Repositories" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suvani-ctrl&theme=material-palenight&hide_border=true" width="95%"/>
 
 </div>
 
@@ -65,22 +39,22 @@
 
 ## 🔗 Links
 
-<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="50"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="50"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="50"/>
+<a href="https://linkedin.com/in/suvani-basnet-369262295">
+  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p>
-  <a href="https://linkedin.com/in/suvani-basnet-369262295">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF1493" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@suvani_basnet">
-    <img src="https://img.shields.io/badge/Medium-FFB6C1?style=for-the-badge&logo=medium&logoColor=white&labelColor=FF69B4" alt="Medium"/>
-  </a>
+<a href="https://medium.com/@suvani_basnet">
+  <img src="https://img.shields.io/badge/Medium-FFB6C1?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
-</p>
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28&height=120&section=footer" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=suvani-ctrl&label=Views&color=ff69b4&style=flat-square" alt="Views"/>
-
-<img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/> <img src="https://i.pinimg.com/originals/05/1a/b6/051ab6c648742fa458692bea720cb3b4.gif" width="60"/>
+<img src="https://komarev.com/ghpvc/?username=suvani-ctrl&label=Views&color=ff69b4&style=flat-square"/>
 
 </div>
