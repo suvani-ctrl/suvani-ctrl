@@ -37,15 +37,6 @@
 
 <div align="center">
 
-## 🔗 Links
-
-<a href="https://linkedin.com/in/suvani-basnet-369262295">
-  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@suvani_basnet">
-  <img src="https://img.shields.io/badge/Medium-FFB6C1?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
 
 </div>
 
